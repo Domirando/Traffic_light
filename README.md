@@ -1,2 +1,2 @@
 # Traffic_light
-traffic light with html, css, js
+Traffic light using HTML, CSS, JavaScript
